@@ -37,7 +37,7 @@ max-width:700px;
 }
 .container h1 span{
     color: rgb(235, 152, 7);
-    border-bottom:4px solid rgb(213, 235, 9);
+    border-bottom:4px solid rgb(235, 152, 9);
 }
 .display input{
     border: 0;
@@ -48,7 +48,7 @@ max-width:700px;
 .container button{
     border:0;
     outline: 0;
-    background: hotpink;
+    background: rgb(19, 94, 40);
     color:#fff;
     font-size: 22px;
     font-weight: 300;
@@ -72,5 +72,3 @@ max-width:700px;
 #clear:hover {
   background: #e60000;
 }
-
-/*hello*/
