@@ -36,8 +36,8 @@ max-width:700px;
     font-size:45px;
 }
 .container h1 span{
-    color: rgb(235, 152, 7);
-    border-bottom:4px solid rgb(235, 152, 9);
+    color: rgb(232, 159, 13);
+    border-bottom:4px solid rgb(234, 151, 8);
 }
 .display input{
     border: 0;
@@ -48,7 +48,7 @@ max-width:700px;
 .container button{
     border:0;
     outline: 0;
-    background: rgb(19, 94, 40);
+    background: rgb(19, 103, 43);
     color:#fff;
     font-size: 22px;
     font-weight: 300;
